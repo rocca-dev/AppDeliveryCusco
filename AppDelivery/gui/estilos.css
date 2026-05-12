@@ -1,0 +1,39 @@
+/* Sistema de Rutas Óptimas — Cusco
+   Estilos complementarios (modularizados desde index.html) */
+
+:root {
+  --bg:        #0a0c10;
+  --surface:   #111318;
+  --border:    #1e2230;
+  --gold:      #c9a84c;
+  --gold-dim:  #7a6230;
+  --cyan:      #3dd6f5;
+  --green:     #2ecc71;
+  --red:       #e74c3c;
+  --orange:    #f39c12;
+  --purple:    #9b59b6;
+  --text:      #e8eaf0;
+  --text-dim:  #6b7280;
+  --mono:      'IBM Plex Mono', monospace;
+  --sans:      'Syne', sans-serif;
+  --radius:    6px;
+  --shadow:    0 4px 24px rgba(0,0,0,.5);
+}
+
+.leaflet-container { background: #060810 !important; }
+.leaflet-tile { filter: brightness(.5) saturate(.4) hue-rotate(180deg); }
+.leaflet-control-zoom a {
+  background: var(--surface) !important;
+  color: var(--text) !important;
+  border-color: var(--border) !important;
+}
+.leaflet-tooltip {
+  background: #111318 !important;
+  border: 1px solid #1e2230 !important;
+  color: #e8eaf0 !important;
+}
+.nodo-label {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
