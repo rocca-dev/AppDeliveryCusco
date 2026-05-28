@@ -1,0 +1,38 @@
+[
+  {
+    "id_repartidor" : "R01",
+    "nombre"        : "Jorge Huallpa",
+    "vehiculo"      : "moto",
+    "latitud_actual": -13.5170,
+    "longitud_actual": -71.9785,
+    "disponible"    : true,
+    "sector_asignado": "Centro Histórico"
+  },
+  {
+    "id_repartidor" : "R02",
+    "nombre"        : "Yeny Quispe",
+    "vehiculo"      : "moto",
+    "latitud_actual": -13.5255,
+    "longitud_actual": -71.9900,
+    "disponible"    : true,
+    "sector_asignado": "Santiago"
+  },
+  {
+    "id_repartidor" : "R03",
+    "nombre"        : "Felix Condori",
+    "vehiculo"      : "furgoneta",
+    "latitud_actual": -13.5280,
+    "longitud_actual": -71.9680,
+    "disponible"    : true,
+    "sector_asignado": "Wanchaq"
+  },
+  {
+    "id_repartidor" : "R04",
+    "nombre"        : "Carmen Ttito",
+    "vehiculo"      : "bicicleta",
+    "latitud_actual": -13.5145,
+    "longitud_actual": -71.9760,
+    "disponible"    : true,
+    "sector_asignado": "San Blas"
+  }
+]

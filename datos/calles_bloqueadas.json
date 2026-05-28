@@ -1,0 +1,16 @@
+[
+  {
+    "origen"     : "plaza_armas",
+    "destino"    : "mercado_central",
+    "motivo"     : "Obras de mantenimiento - Calle Mantas",
+    "fecha_inicio": "2026-05-08",
+    "fecha_fin"  : "2026-05-20"
+  },
+  {
+    "origen"     : "limacpampa",
+    "destino"    : "wanchaq_centro",
+    "motivo"     : "Evento cultural - Inti Raymi preparativos",
+    "fecha_inicio": "2026-05-10",
+    "fecha_fin"  : "2026-05-15"
+  }
+]
